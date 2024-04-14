@@ -19,12 +19,10 @@ To use the application:
 1. Ensure you have a webcam connected to your computer.
 2. Clone this repository to your local machine.
 3. Install the necessary Python libraries: OpenCV, NumPy.
-4. Run the `realtime_drawing.py` script.
+4. Run the `main.py` script.
 5. Use colored objects (e.g., red, green, blue) to draw on the canvas in real-time.
 6. Clear the canvas by holding a specific colored object in front of the webcam.
 
-## Showcase
-Check out a demo of the real-time drawing application in action on YouTube: [Real-time Drawing Application Demo](https://youtu.be/example-demo)
 
 ## Future Improvements
 - Implement additional drawing tools and options, such as brush size and eraser.
@@ -32,11 +30,7 @@ Check out a demo of the real-time drawing application in action on YouTube: [Rea
 - Optimize hand gesture detection algorithms for better performance and accuracy.
 - Add support for saving and loading drawings.
 
-## Support
-For any questions, feedback, or issues, please open an issue in this repository or contact us at [example@email.com](mailto:example@email.com).
 
-## Contributions
-Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request following our contribution guidelines.
 
 ---
 
